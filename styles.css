@@ -1,0 +1,46 @@
+body {
+  background-color: #f8f9fa;
+  font-family: 'Arial', sans-serif;
+}
+
+h1 {
+  margin-bottom: 30px;
+  color: #007bff;
+  text-shadow: 1px 1px 1px #000;
+}
+
+h2 {
+  color: #343a40;
+  margin-bottom: 20px;
+}
+
+.form-control {
+  margin-bottom: 10px;
+}
+
+.btn-primary {
+  background-color: #007bff;
+  border-color: #007bff;
+}
+
+.table th, .table td {
+  text-align: center;
+  vertical-align: middle;
+}
+
+.table th {
+  background-color: #007bff;
+  color: white;
+}
+
+.modal .modal-header {
+  background-color: #007bff;
+  color: white;
+}
+
+.container {
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  background-color: #fff;
+  border-radius: 10px;
+}
